@@ -18,4 +18,8 @@
 
 - ### [09. Calculator(Credit goes to copilot)](https://github.com/martun-avagyan/js-practice/blob/main/09calculator.js)
 
+- ### [10. Map Implementation)](https://github.com/martun-avagyan/js-practice/blob/main/10map.js)
+
+- ### [11. Reduce Implementation)](https://github.com/martun-avagyan/js-practice/blob/main/11reduce.js)
+
 ## TO BE CONTINUED
